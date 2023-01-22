@@ -150,7 +150,7 @@ textarea
 
 body 
 { 
-   background-image: url(img/fond.jpg); 
+   background-image: url(fond.jpg); 
    background-repeat: repeat;
    /*background-position: left;*/
    font-family: Arial;    
